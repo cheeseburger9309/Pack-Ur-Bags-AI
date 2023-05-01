@@ -123,7 +123,7 @@ function App(props) {
                         rating={placedata.rating}
                       />
                     </div>
-                    {/* <Btn type="button" onClick={bookFunc} value="Book" /> */}
+                    
                   </div>
                 </div>
                 <Info details={placedata.details} />
@@ -240,7 +240,7 @@ function App(props) {
                         <Review
                           key={index}
                           image={
-                            // "profileImgs/" +
+                            
                             review.user.image
                           }
                           username={review.user.username}
