@@ -65,6 +65,6 @@ The following configuration details are required to run the Pack Ur Bags project
 
 ## Contributing
 
-Pack Ur Bags is an open-source project, and we welcome contributions from the community. To contribute, please fork the project, make your changes, and submit a pull request. 
+Pack Ur Bags AI is an open-source project, and we welcome contributions from the community. To contribute, please fork the project, make your changes, and submit a pull request. 
 
 
