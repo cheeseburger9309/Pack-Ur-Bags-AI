@@ -20,7 +20,7 @@ The Pack Ur Bags project is developed and maintained by the following team membe
  
 - Sai Kasyap, S20200010229
 - Kamal Sai, S20200010233
-- Nithish Reddy, S20200010
+- Nithish Reddy, S20200010142
 - Sampreeth, S20200010
 - Ram Naidu, S20200010
 - Yaswanth Reddy, S20200010
