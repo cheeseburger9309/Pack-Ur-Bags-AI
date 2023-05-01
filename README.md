@@ -67,4 +67,9 @@ The following configuration details are required to run the Pack Ur Bags project
 
 Pack Ur Bags AI is an open-source project, and we welcome contributions from the community. To contribute, please fork the project, make your changes, and submit a pull request. 
 
+## Screenshots
 
+<img width="960" alt="Screenshot 2023-05-01 221217" src="https://user-images.githubusercontent.com/84549446/235493863-1fd4e4c5-12a4-4167-bdc2-d15b739ed744.png">
+<img width="960" alt="Screenshot 2023-05-01 222019" src="https://user-images.githubusercontent.com/84549446/235493867-c7ab76fb-9f19-4ea4-ab34-427a150ea6dc.png">
+<img width="960" alt="Screenshot 2023-05-01 222104" src="https://user-images.githubusercontent.com/84549446/235493870-e016de61-48dc-4693-a701-d201c87cb7ee.png">
+<img width="960" alt="Screenshot 2023-05-01 222149" src="https://user-images.githubusercontent.com/84549446/235493880-4a60c9f9-1310-4515-9662-8fea1939100e.png">
