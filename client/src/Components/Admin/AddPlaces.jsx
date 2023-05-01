@@ -287,18 +287,7 @@ function AddPlaces(props) {
             value={placeinfo.fiveDay.day5}
             onChange={onUpdateField3}
           />
-          {/* <select name="days" onChange={onUpdateField} style={{marginLeft: "30%"}}>
-            <option>No.of days</option>
-            {days.map((option, index) => {
-              return <option key={index}>{option}</option>;
-            })}
-          </select>
-          <select name="busType" onChange={onUpdateField}>
-            <option>Bus Types</option>
-            {busType.map((option, index) => {
-              return <option key={index}>{option}</option>;
-            })}
-          </select> */}
+          
           <input
             style={{ marginLeft: "30%" }}
             placeholder="choose picture"
