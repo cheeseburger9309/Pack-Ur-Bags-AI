@@ -62,7 +62,7 @@ function App() {
           <Route path="edit/:id" element={<Edit />} />
           <Route path="*" element={<Error />} />
         </Routes>
-        {/* {login && <LoginPage formType={"login"} closeLoginForm={()=>{setLogin(false)}}/>} */}
+        
       </BrowserRouter>
     </>
   );
