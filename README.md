@@ -19,7 +19,7 @@ Meet our AI-powered itinerary planner - your ultimate travel companion! Our plat
 The Pack Ur Bags project is developed and maintained by the following team members:
  
 - Sai Kasyap, S20200010229
-- Kamal Sai, S20200010
+- Kamal Sai, S20200010233
 - Nithish Reddy, S20200010
 - Sampreeth, S20200010
 - Ram Naidu, S20200010
