@@ -1,5 +1,5 @@
 
-/* arrow up */
+
 .arrow i {
   position: fixed;
   bottom: 20px;
@@ -46,7 +46,7 @@
   font-weight: bold;
 }
 
-/* Home CSS */
+
 .home {
   display: flex;
   align-items: center;
@@ -90,9 +90,7 @@
   top: 10rem;
 }
 
-/* Booking CSS Starts HERE */
 
-/* Class Book */
 
 .book .row {
   margin: 2;
@@ -151,17 +149,17 @@
 
 .book .row form .inputBox h3 {
   font-size: 2rem;
-  /* padding: 1rem 0; */
+ 
   color: #666;
 }
 
-/* class space */
+
 .heading span.space {
   margin-top: 10%;
   background: none;
 }
 
-/* class inputBox */
+
 
 .book .row table .inputBox .arrival {
   margin-left: 5%;
@@ -234,7 +232,7 @@
   font-size: 20px;
 }
 
-/* Gallery */
+
 .gallery .box-container {
   display: flex;
   flex-wrap: wrap;
@@ -284,7 +282,7 @@
   padding: 0.5rem 0;
 }
 
-/* Places */
+
 
 .places .box-container {
   display: flex;
@@ -295,7 +293,7 @@
 .places .box-container .box {
   overflow: hidden;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.199);
-  /* border:1rem solid #fff; */
+ 
   border: 1rem solid rgba(252, 252, 252, 0);
   border-radius: 0.5rem;
   flex: 1 1 30rem;
