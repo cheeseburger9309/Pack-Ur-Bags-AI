@@ -30,9 +30,9 @@ The Pack Ur Bags project is developed and maintained by the following team membe
 
 To run the Pack Ur Bags project, follow the instructions below:
 
-1. Clone the project from the GitHub repository: `https://github.com/charan1409/project.git`
+1. Clone the project from the GitHub repository: `https://github.com/cheeseburger9309/Pack-Ur-Bags-AI.git`
 
-2. Open Git Bash in Your PC and use the command `git clone https://github.com/charan1409/project.git`
+2. Open Git Bash in Your PC and use the command `git clone https://github.com/cheeseburger9309/Pack-Ur-Bags-AI.git`
 
 3. Open the project in vscode and for running the app
 
